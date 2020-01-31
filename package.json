@@ -1,0 +1,22 @@
+{
+  "name": "mypixitest",
+  "version": "1.0.0",
+  "description": "Тестовое приложение\r Изучаем pixiJs",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Legrank/mypixitest.git"
+  },
+  "author": "Dmitriy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Legrank/mypixitest/issues"
+  },
+  "homepage": "https://github.com/Legrank/mypixitest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
