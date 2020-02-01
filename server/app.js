@@ -16,8 +16,8 @@ app.get('/', function (req, res) {
   res.send('Hello Pixi!');
 });
 
-https.createServer(options, app).listen(443);
+https.createServer(options, app).listen(3000);
 
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!');
-});
+// app.listen(3000, function () {
+//   console.log('Example app listening on port 3000!');
+// });
